@@ -1,2 +1,2 @@
 # JAVAPROJECT-RESTApi
-This repository is for a RESTApi in JAVA for a Banking System
+This repository is for RESTApi created in JAVA for a Banking System
